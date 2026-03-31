@@ -3,6 +3,8 @@
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b62b089f-b892-4965-99c9-c1e48ea4acb8" />    
 
+<img width="2550" height="1079" alt="image" src="https://github.com/user-attachments/assets/97ea7543-414f-498e-949d-f3a9388e7060" />    
+
 ```
 A continuación tienes una solución completa, estructurada y ejecutable en **Java (IntelliJ)** que modela y documenta el **ciclo de vida
 del desarrollo de software (SDLC)** con persistencia en **Oracle 19c**, utilizando un enfoque empresarial:
