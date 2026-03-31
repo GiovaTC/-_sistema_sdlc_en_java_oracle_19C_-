@@ -10,5 +10,5 @@ public class ConexionOracle {
     public static Connection getConexion() throws Exception {
         Class.forName("oracle.jdbc.driver.OracleDriver");
         return DriverManager.getConnection(URL, USER, PASSWORD);
-    }   
+    }
 }
